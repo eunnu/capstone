@@ -1,0 +1,22 @@
+﻿Build started 2018-06-06 오후 11:29:12.
+     1>Project "C:\Users\KEY\workspace\capstone-master\Rhythm_Game\Rhythm_Game\Rhythm_Game.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Moc'ing rhythm_game.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenCV\build\install\include /I.\GeneratedFiles /I. /IC:\Qt\5.3\msvc2013_64_opengl\include /I.\GeneratedFiles\Release /IC:\Qt\5.3\msvc2013_64_opengl\include\QtCore /IC:\Qt\5.3\msvc2013_64_opengl\include\QtGui /IC:\Qt\5.3\msvc2013_64_opengl\include\QtWidgets /IC:\Qt\5.3\msvc2013_64_opengl\include\QtMultimedia /IC:\Qt\5.3\msvc2013_64_opengl\include\QtMultimediaWidgets /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Release\moc_rhythm_game.cpp main.cpp rhythm_game.cpp
+         moc_rhythm_game.cpp
+         main.cpp
+         rhythm_game.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KEY\workspace\capstone-master\Rhythm_Game\x64\Release\\Rhythm_Game.exe" /NOLOGO /LIBPATH:C:\OpenCV\build\install\x64\vc12\lib /LIBPATH:C:\Qt\5.3\msvc2013_64_opengl\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib opencv_world341.lib Qt5Multimedia.lib Qt5MultimediaWidgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\KEY\workspace\capstone-master\Rhythm_Game\x64\Release\Rhythm_Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KEY\workspace\capstone-master\Rhythm_Game\x64\Release\Rhythm_Game.lib" /MACHINE:X64 x64\Release\qrc_rhythm_game.obj
+         x64\Release\moc_rhythm_game.obj
+         x64\Release\hand.obj
+         x64\Release\main.obj
+         x64\Release\rhythm_game.obj
+         Rhythm_Game.vcxproj -> C:\Users\KEY\workspace\capstone-master\Rhythm_Game\x64\Release\Rhythm_Game.exe
+     1>Done Building Project "C:\Users\KEY\workspace\capstone-master\Rhythm_Game\Rhythm_Game\Rhythm_Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.88

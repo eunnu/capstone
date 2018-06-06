@@ -1,0 +1,23 @@
+﻿Build started 2018-05-08 오후 9:59:24.
+     1>Project "D:\Users\rlaqh\documents\visual studio 2013\Projects\Rhythm_Game\Rhythm_Game\Rhythm_Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"D:\opencv-3.4.1_source\opencv\build\include" /I.\GeneratedFiles /I. /ID:\Qt\5.3\msvc2013_64_opengl\include /I.\GeneratedFiles\Debug /ID:\Qt\5.3\msvc2013_64_opengl\include\QtCore /ID:\Qt\5.3\msvc2013_64_opengl\include\QtGui /ID:\Qt\5.3\msvc2013_64_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_rhythm_game.cpp images.cpp main.cpp rhythm_game.cpp
+         moc_rhythm_game.cpp
+         images.cpp
+         main.cpp
+         rhythm_game.cpp
+         Generating Code...
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"D:\opencv-3.4.1_source\opencv\build\include" /I.\GeneratedFiles /I. /ID:\Qt\5.3\msvc2013_64_opengl\include /I.\GeneratedFiles\Debug /ID:\Qt\5.3\msvc2013_64_opengl\include\QtCore /ID:\Qt\5.3\msvc2013_64_opengl\include\QtGui /ID:\Qt\5.3\msvc2013_64_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_rhythm_game.cpp
+         qrc_rhythm_game.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\rlaqh\documents\visual studio 2013\Projects\Rhythm_Game\x64\Debug\\Rhythm_Game.exe" /NOLOGO /LIBPATH:"D:\opencv-3.4.1_source\opencv\build\x64\vc14\lib" /LIBPATH:D:\Qt\5.3\msvc2013_64_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib opencv_world341.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\rlaqh\documents\visual studio 2013\Projects\Rhythm_Game\x64\Debug\Rhythm_Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\rlaqh\documents\visual studio 2013\Projects\Rhythm_Game\x64\Debug\Rhythm_Game.lib" /MACHINE:X64 x64\Debug\moc_rhythm_game.obj
+         x64\Debug\qrc_rhythm_game.obj
+         x64\Debug\images.obj
+         x64\Debug\main.obj
+         x64\Debug\rhythm_game.obj
+         Rhythm_Game.vcxproj -> D:\Users\rlaqh\documents\visual studio 2013\Projects\Rhythm_Game\x64\Debug\Rhythm_Game.exe
+     1>Done Building Project "D:\Users\rlaqh\documents\visual studio 2013\Projects\Rhythm_Game\Rhythm_Game\Rhythm_Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.63
